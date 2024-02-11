@@ -41,6 +41,10 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
             text = "Testing cicd",
             modifier = modifier
         )
+        Text(
+            text = "Moving one step ahead, jenkins installed",
+            modifier = modifier
+        )
     }
 
 }
